@@ -17,5 +17,7 @@ The Jsp Page served locally opens up automatically
 1. Debug the Jsp program in intellij like any Java program. Evaluate expression in intellij is so handy in debugging :) 
 
 
+# Output
 
+![Jsppage](Screen Shot 2020-09-16 at 11.26.42 AM.png)
 
