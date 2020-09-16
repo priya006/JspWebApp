@@ -19,5 +19,5 @@ The Jsp Page served locally opens up automatically
 
 # Output
 
-![Jsppage](https://github.com/priya006/JspWebApp/blob/master/Screen%20Shot%202020-09-16%20at%2011.26.42%20AM.png)
+![Jsppage](https://github.com/priya006/JspWebApp/blob/master/Screen%20Shot%202020-09-16%20at%2011.30.35%20AM.png)
 
